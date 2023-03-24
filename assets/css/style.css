@@ -789,6 +789,7 @@ section {
 .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgb(2, 74, 12);
+  color: #ffffff;
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -796,7 +797,7 @@ section {
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ffffff;
 }
 
 .portfolio-details .portfolio-info ul {
@@ -811,6 +812,7 @@ section {
 
 .portfolio-details .portfolio-description {
   padding-top: 30px;
+  color: #ffffff;
 }
 
 .portfolio-details .portfolio-description h2 {
